@@ -6,6 +6,7 @@ public class UseTrie {
 		// TODO Auto-generated method stub
 		
 		Trie MyDictionary = new Trie();
+		System.out.println('a'-0);
 		
 		MyDictionary.insert("do","karo");
 		
